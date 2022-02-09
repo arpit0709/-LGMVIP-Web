@@ -1,0 +1,126 @@
+html {
+    text-align: center;
+    background-image: linear-gradient(45deg, rgb(83, 240, 148), rgb(49, 198, 243), rgb(3, 48, 100));
+}
+
+
+.container {
+    background-color: rgb(43, 161, 177);
+    margin: 20px;
+    width: 470px;
+    height: 100px;
+    position: fixed;
+    left: 30.5%;
+    top: 10%;
+    border: 5px solid rgb(67, 57, 77);
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+
+
+}
+
+.input {
+    padding: 10px 40px;
+    margin: 28px;
+    border-radius: 5px;
+    background-color: rgb(175, 237, 245);
+    font-size: 17px;
+
+
+
+
+}
+
+.btn {
+    padding: 15px;
+
+    margin: 10px;
+    border-radius: 5px;
+    background-color: rgb(68, 250, 250);
+    color: black;
+    font-family: sans-serif;
+    box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.5);
+
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+
+
+    margin: 35px;
+
+
+    position: fixed;
+
+
+    margin-top: 20px;
+    background-color: rgb(43, 161, 177);
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+
+}
+
+table thead {
+
+    background: rgb(19, 68, 75);
+}
+
+table,
+th,
+td {
+    padding: 12px 11px;
+    width: 30%;
+    left: 30%;
+    top: 26%;
+}
+
+tr {
+    border-bottom: 2px solid #dddddd;
+
+}
+
+th {
+    font-size: 25px;
+    font-weight: 700;
+    font-family: sans-serif;
+    color: white;
+}
+
+td {
+    font-size: 20px;
+    border-radius: 5px;
+
+    color: black;
+
+}
+
+
+
+.taskdone {
+    padding: 15px;
+
+    margin: 10px;
+    border-radius: 5px;
+    background-color: rgb(68, 250, 250);
+    color: black;
+    font-family: sans-serif;
+    box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.5);
+
+}
+
+.delbtn {
+    padding: 15px;
+
+    margin: 10px;
+    border-radius: 5px;
+    background-color: rgb(68, 250, 250);
+    color: black;
+
+    font-family: sans-serif;
+    box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.5);
+
+
+}
